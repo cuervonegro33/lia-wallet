@@ -1,4 +1,5 @@
-const API_URL = 'https://liawallet.glitch.me';
+const API_URL = 'https://lia-wallet-proxy.glitch.me/
+';
 
 async function registrar() {
   const username = document.getElementById('username').value.trim();
