@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbyGO_Oy4wtv0xDvrRM1dICLNUFtxQUCVdhOI3c2SqxX0XqA9WbICBkLoyNOsQbulF_0qw/exec';
+const API_URL = 'https://liawallet.glitch.me';
 
 async function registrar() {
   const username = document.getElementById('username').value.trim();
